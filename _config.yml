@@ -1,0 +1,11 @@
+# Site settings
+title: buglix.org
+email: blog@buglix.org
+description: Coming
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://buglix.org" # the base hostname & protocol for your site
+twitter_username: emilerl
+github_username:  emilerl
+
+# Build settings
+markdown: kramdown

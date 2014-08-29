@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>buglix.org</title>
+    <description>Coming</description>
+    <link>http://buglix.org/</link>
+    <atom:link href="http://buglix.org/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 29 Aug 2014 08:35:13 +0200</pubDate>
+    <lastBuildDate>Fri, 29 Aug 2014 08:35:13 +0200</lastBuildDate>
+    <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>New things</title>
+        <description>&lt;p&gt;More to come…&lt;/p&gt;
+</description>
+        <pubDate>Fri, 29 Aug 2014 10:31:45 +0200</pubDate>
+        <link>http://buglix.org/update/2014/08/29/new-things.html</link>
+        <guid isPermaLink="true">http://buglix.org/update/2014/08/29/new-things.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
