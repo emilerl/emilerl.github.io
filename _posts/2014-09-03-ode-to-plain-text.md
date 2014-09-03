@@ -15,10 +15,8 @@ I have found a pattern in the tools that I use - the more low-tech they are, the
 
 Recently I have started to use [TaskPaper](http://www.hogbaysoftware.com/products/taskpaper), by Hogbay Software. Or actually, re-started as I have tried it in the passed and dismissed it as it doesn't have all the bells and whistles of something like OmniFocus. 
 
-It is not only an app, but also a way to structure tasks, projects, tags and notes in plain text so it can be used with other plain text editors as well (more on that in a coming post). Hogbay's website is not selling the concept very well, but there are two comprehensive articles by [Gabe Weatherhead](http://twitter.com/macdrifter), [part 1](http://www.macdrifter.com/2014/01/deconstructing-my-omnifocus-dependency.html) and [part 2](http://www.macdrifter.com/2014/02/the-taskpaper-rd-notebook.html).
+It is not only an app, but also a way to structure tasks, projects, tags and notes in plain text so it can be used with other plain text editors as well (more on that in a coming post). Hogbay's website is not selling the concept very well, but there are two comprehensive articles by [Gabe Weatherhead](http://twitter.com/macdrifter) - [Part 1](http://www.macdrifter.com/2014/01/deconstructing-my-omnifocus-dependency.html) and [Part 2](http://www.macdrifter.com/2014/02/the-taskpaper-rd-notebook.html).
 
 The more I use it the more I like it. There is some form of app for every platform I use. I can sync my TaskPaper document with Dropbox and use a variety of scripts and tools to manipulate them. It doesn't provide me with a ton of settings I can fiddle with (which is good), but it let's me create my own theme. As I really like the [SMYCK](http://color.smyck.org/) color scheme, I used it as a base for my theme as you can see below.
 
 [![smycktheme](https://raw.githubusercontent.com/emilerl/smyck-taskpaper/master/smyck.png)](https://github.com/emilerl/smyck-taskpaper/blob/master/Smyck.taskpapertheme)
-
-
