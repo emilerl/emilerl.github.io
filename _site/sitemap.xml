@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://buglix.org/2014/09/03/ode-to-text/</loc>
+    <lastmod>2014-09-03T00:00:00+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://buglix.org/2010/01/08/my-favorite-iphone-apps-of-2009/</loc>
+    <lastmod>2010-01-08T00:00:00+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://buglix.org/2009/05/24/10-years-of-digital-cameras/</loc>
+    <lastmod>2009-05-24T00:00:00+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://buglix.org/404.html</loc>
+    <lastmod>2014-09-03T20:06:05+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://buglix.org/about/</loc>
+    <lastmod>2014-09-03T20:06:05+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://buglix.org/</loc>
+    <lastmod>2014-09-03T20:06:05+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  
+</urlset>

@@ -4,13 +4,38 @@
  <title>buglix.org</title>
  <link href="http://buglix.org/atom.xml" rel="self"/>
  <link href="http://buglix.org/"/>
- <updated>2014-09-03T19:21:45+02:00</updated>
+ <updated>2014-09-03T20:06:05+02:00</updated>
  <id>http://buglix.org</id>
  <author>
    <name>Emil Erlandsson</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Ode to plain text</title>
+   <link href="http://buglix.org/2014/09/03/ode-to-text/"/>
+   <updated>2014-09-03T00:00:00+02:00</updated>
+   <id>http://buglix.org/2014/09/03/ode-to-text</id>
+   <content type="html">&lt;p&gt;Since I first started using &lt;a href=&quot;http://en.wikipedia.org/wiki/Getting_Things_Done&quot;&gt;Getting Things Done&lt;/a&gt; back in 2006 I have constantly been on the lookout for the next cool method, system, setup or app. Everything from a fully analog system with notebooks and 43 physical folders to every standalone app or subscription model there is. &lt;/p&gt;
+
+&lt;p&gt;The problem I have and share with so many others is that I fiddle more with the setup and tools than I actually do using it to get productive. I really like the idea of fully fledged tools like &lt;a href=&quot;https://www.omnigroup.com/omnifocus&quot;&gt;Omnifocus&lt;/a&gt;, but after I get all my stuff in there I start to loose the overview perspective and after a few weeks I almost don&amp;#39;t want to open the app anymore. &lt;/p&gt;
+
+&lt;p&gt;I have found a pattern in the tools that I use - the more low-tech they are, the longer I stay with them. It&amp;#39;s something special about the freedom of just jotting something down in a notebook or being able to move text around freely on the screen. Paper based notebooks have the disadvantage that it&amp;#39;s hard to search and index them and that&amp;#39;s why I&amp;#39;ve eventually left them behind. I still take most of my notes with pen and paper, but I like my task management digital.&lt;/p&gt;
+
+&lt;h2&gt;Enter TaskPaper&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.hogbaysoftware.com/static/taskpaper/mac_os_screen.jpg&quot; alt=&quot;taskpaper&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Recently I have started to use &lt;a href=&quot;http://www.hogbaysoftware.com/products/taskpaper&quot;&gt;TaskPaper&lt;/a&gt;, by Hogbay Software. Or actually, re-started as I have tried it in the passed and dismissed it as it doesn&amp;#39;t have all the bells and whistles of something like OmniFocus. &lt;/p&gt;
+
+&lt;p&gt;It is not only an app, but also a way to structure tasks, projects, tags and notes in plain text so it can be used with other plain text editors as well (more on that in a coming post). Hogbay&amp;#39;s website is not selling the concept very well, but there are two comprehensive articles by &lt;a href=&quot;http://twitter.com/macdrifter&quot;&gt;Gabe Weatherhead&lt;/a&gt;, &lt;a href=&quot;http://www.macdrifter.com/2014/01/deconstructing-my-omnifocus-dependency.html&quot;&gt;part 1&lt;/a&gt; and &lt;a href=&quot;http://www.macdrifter.com/2014/02/the-taskpaper-rd-notebook.html&quot;&gt;part 2&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The more I use it the more I like it. There is some form of app for every platform I use. I can sync my TaskPaper document with Dropbox and use a variety of scripts and tools to manipulate them. It doesn&amp;#39;t provide me with a ton of settings I can fiddle with (which is good), but it let&amp;#39;s me create my own theme. As I really like the &lt;a href=&quot;http://color.smyck.org/&quot;&gt;SMYCK&lt;/a&gt; color scheme, I used it as a base for my theme as you can see below.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/emilerl/smyck-taskpaper/blob/master/Smyck.taskpapertheme&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/emilerl/smyck-taskpaper/master/smyck.png&quot; alt=&quot;smycktheme&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>My favorite iPhone apps of 2009</title>

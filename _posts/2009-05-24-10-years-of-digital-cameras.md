@@ -1,5 +1,4 @@
 ---
-comments: true
 layout: post
 title: 10 years of digital cameras
 ---
