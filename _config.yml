@@ -12,8 +12,7 @@ owner:
   twitter:        emilerl
   github:         emilerl
   instagram:      emilerl
-  dribbble:       coletownsend
-  disqus:         balzac
+  disqus:         buglixorg
   location:       "Malmoe, Sweden"
   # Plug in your disqus shortname!
 
@@ -26,15 +25,17 @@ tools:
 links:
   - title: About
     url: /about
+  - title: Archive
+    url: /all
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    url: https://github.com/emilerl
     external: true
-  - title: Cole Who?
+  - title: Arnes
     url: http://coletownsend.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Stockholm
 future:      true
 highlighter: pygments
 markdown:    kramdown

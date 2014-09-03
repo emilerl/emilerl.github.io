@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-08-28T15:09:40-04:00</updated>
+<updated>2014-09-03T13:32:57+02:00</updated>
 <id>/</id>
 <author>
   <name>Emil Erlandsson</name>
@@ -15,11 +15,28 @@
 
 
 <entry>
+  <title type="html"><![CDATA[New things]]></title>
+  <link rel="alternate" type="text/html" href="/update/new-things" />
+  <id>/update/new-things</id>
+  <published>2014-08-29T10:31:45+02:00</published>
+  <updated>2014-08-29T10:31:45+02:00</updated>
+  <author>
+    <name>Emil Erlandsson</name>
+    <uri></uri>
+    <email>emil@buglix.org</email>
+  </author>
+  <content type="html">&lt;p&gt;More to come…&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/update/new-things&quot;&gt;New things&lt;/a&gt; was originally published by Emil Erlandsson at &lt;a href=&quot;&quot;&gt;buglix.org&lt;/a&gt; on August 29, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Test Post]]></title>
   <link rel="alternate" type="text/html" href="/articles/test-post" />
   <id>/articles/test-post</id>
-  <published>2013-08-17T00:00:00-04:00</published>
-  <updated>2013-08-17T00:00:00-04:00</updated>
+  <published>2013-08-17T00:00:00+02:00</published>
+  <updated>2013-08-17T00:00:00+02:00</updated>
   <author>
     <name>Emil Erlandsson</name>
     <uri></uri>
@@ -38,8 +55,8 @@
   <title type="html"><![CDATA[Image in Post]]></title>
   <link rel="alternate" type="text/html" href="/articles/the-little-prince" />
   <id>/articles/the-little-prince</id>
-  <published>2013-08-05T00:00:00-04:00</published>
-  <updated>2013-08-05T00:00:00-04:00</updated>
+  <published>2013-08-05T00:00:00+02:00</published>
+  <updated>2013-08-05T00:00:00+02:00</updated>
   <author>
     <name>Emil Erlandsson</name>
     <uri></uri>
@@ -78,8 +95,8 @@ grown-ups could see it clearly. They always need to have things explained.&lt;/p
   <title type="html"><![CDATA[Post with Figure]]></title>
   <link rel="alternate" type="text/html" href="/articles/post-with-figure" />
   <id>/articles/post-with-figure</id>
-  <published>2013-08-05T00:00:00-04:00</published>
-  <updated>2013-08-05T00:00:00-04:00</updated>
+  <published>2013-08-05T00:00:00+02:00</published>
+  <updated>2013-08-05T00:00:00+02:00</updated>
   <author>
     <name>Emil Erlandsson</name>
     <uri></uri>
@@ -107,8 +124,8 @@ grown-ups could see it clearly. They always need to have things explained.&lt;/p
   <title type="html"><![CDATA[Post and Feature Image]]></title>
   <link rel="alternate" type="text/html" href="/articles/post-with-feature" />
   <id>/articles/post-with-feature</id>
-  <published>2013-08-05T00:00:00-04:00</published>
-  <updated>2013-08-05T00:00:00-04:00</updated>
+  <published>2013-08-05T00:00:00+02:00</published>
+  <updated>2013-08-05T00:00:00+02:00</updated>
   <author>
     <name>Emil Erlandsson</name>
     <uri></uri>
@@ -145,8 +162,8 @@ I lived at West Egg, the — well, the less fashionable of the two, though this 
   <title type="html"><![CDATA[A Longform Post to Cogitate]]></title>
   <link rel="alternate" type="text/html" href="/articles/longform-post" />
   <id>/articles/longform-post</id>
-  <published>2013-08-05T00:00:00-04:00</published>
-  <updated>2013-08-05T00:00:00-04:00</updated>
+  <published>2013-08-05T00:00:00+02:00</published>
+  <updated>2013-08-05T00:00:00+02:00</updated>
   <author>
     <name>Emil Erlandsson</name>
     <uri></uri>
@@ -194,6 +211,135 @@ I lived at West Egg, the — well, the less fashionable of the two, though this 
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;/articles/longform-post&quot;&gt;A Longform Post to Cogitate&lt;/a&gt; was originally published by Emil Erlandsson at &lt;a href=&quot;&quot;&gt;buglix.org&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[My favorite iPhone apps of 2009]]></title>
+  <link rel="alternate" type="text/html" href="/tips/my-favorite-iphone-apps-of-2009" />
+  <id>/tips/my-favorite-iphone-apps-of-2009</id>
+  <published>2010-01-08T23:23:20+01:00</published>
+  <updated>2010-01-08T23:23:20+01:00</updated>
+  <author>
+    <name>Emil Erlandsson</name>
+    <uri></uri>
+    <email>emil@buglix.org</email>
+  </author>
+  <content type="html">&lt;p&gt;The number of applications in Apple’s App Store has exploded during 2009 and it is getting harder and harder to find new stuff. Therefore I thought it was a good idea to share my favorite applications of 2009 (mostly based on the apps I have used the most).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://erlandsson.files.wordpress.com/2010/01/photo-full.jpg&quot;&gt;&lt;img src=&quot;http://erlandsson.files.wordpress.com/2010/01/photo-thumb4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://reederapp.com/&quot;&gt;Reeder&lt;/a&gt;&lt;br /&gt;
+As a &lt;a href=&quot;http://reader.google.com&quot;&gt;Google Reader&lt;/a&gt; addict I have tried several iPhone apps for accessing my feeds while on the road. First I used the mobile version of Google Reader, simply browsing to the site in Safari. It didn’t map to the way I use reader though and later I stumbled upon &lt;a href=&quot;http://www.phantomfish.com/byline.html&quot;&gt;Byline&lt;/a&gt; (native app) which was a step in the right direction. After that I started using &lt;a href=&quot;http://www.newsgator.com/Individuals/NetNewsWireiPhone/Default.aspx&quot;&gt;NetNewsWire&lt;/a&gt; which also improved the reading experience. It wasn’t until I found Reeder that I can say I’m happy with the reading experience on the iPhone. There are only a few features that I miss (such as reading items shared by others, or recommended items). One of the apps I use most days except Mail and Phone.   &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.instapaper.com/iphone&quot;&gt;Instapaper&lt;/a&gt; &lt;br /&gt;
+Instapaper is a good complement to Google Reader and other news services allowing me to read some of the longer articles when I have the time. Besides my Sony Reader Touch (via Calibre), the iPhone app is the place were I read most of the content from Instapaper.com.  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.atebits.com/tweetie-iphone/&quot;&gt;Tweetie&lt;/a&gt;&lt;br /&gt;
+My Twitter usage goes up and down, but when I’m in the mood, I use Tweetie on the iPhone.  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://boxcar.io/&quot;&gt;Boxcar&lt;/a&gt;&lt;br /&gt;
+A good complement to Tweetie, allowing me to get notifications about direct messages or mentions.  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://hipstamaticapp.com/&quot;&gt;Hipstamatic&lt;/a&gt;&lt;br /&gt;
+Of all the camera apps I have tried, this is the only one I have kept. The various lenses and films you can buy in the application makes you want to experiment and try new things. For some examples, check &lt;a href=&quot;http://emilerl.posterous.com/paper-stuff&quot;&gt;“Paper Stuff”&lt;/a&gt; at my Posterous blog.  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=316377359&amp;amp;mt=8&quot;&gt;Ninjawords&lt;/a&gt; [iTunes direct link]&lt;br /&gt;
+The &lt;a href=&quot;http://daringfireball.net/2009/08/ninjawords&quot;&gt;controversy&lt;/a&gt; (via: Daring Fireball) around Ninjawords was actually the thing that got me to try it. As the web service (&lt;a href=&quot;http://ninjawords.com&quot;&gt;ninjawords.com&lt;/a&gt;) it is a really fast way of looking up &lt;a href=&quot;http://www.wiktionary.org/&quot;&gt;Wiktionary&lt;/a&gt; words.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.hoofien.com/Snatch/index.html&quot;&gt;Snatch&lt;/a&gt;&lt;br /&gt;
+In the summer of 09 I bought a Mac Mini and installed Plex. I didn’t want a complete keyboad and mouse setup, so instead I researched remote control solutions allowing me to remote control the Mini via my iPhone and WiFi (or BlueTooth). Even though it is a bit unstable from time to time, it is still my favorite way of controlling the Mini from the phone.   &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tripit.com/uhp/iphone&quot;&gt;The TripIt App&lt;/a&gt;&lt;br /&gt;
+Since I travel quite a lot, the TripIt app have saved me many times during sprints at airport trying to find out when the connecting flight departs.  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.futureacoustic.com/soundcurtain/&quot;&gt;Soundcurtain&lt;/a&gt;&lt;br /&gt;
+While traveling it can be hard to find solitude and privacy to get some work done. Soundcurtain is a great cure, analyzing the environment sound volume via the mic and generates a sound to tune it out. I mostly use the rain mode.   &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.apple.com/ipod/nike/&quot;&gt;Nike + iPod&lt;/a&gt;&lt;br /&gt;
+Even though this is a built-in application I thought it was worth mentioning. If you have the Nike+ equipment it is a very nice way of keeping track of your exercise.   &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.drinksapp.com/&quot;&gt;Top shelf&lt;/a&gt;&lt;br /&gt;
+Previously named “Drinks”, Top shelf is my first stop for finding drink recipes and inspiration.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.jamieoliver.com/20-minute-meals/&quot;&gt;20 minute meals - Jamie Oliver&lt;/a&gt;&lt;br /&gt;
+Another great stop for recipes. Nice inspiring photos and very clear instructions. I particularly like the shopping list feature. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=342699962&amp;amp;mt=8&quot;&gt;Rat on a scooter XL&lt;/a&gt; [iTunes direct link]&lt;br /&gt;
+Most addictive game of 2009. I have a high score of 140 and it starts to get hard beating it. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=307727765&amp;amp;mt=8&quot;&gt;DoodleJump&lt;/a&gt; [iTunes direct link]&lt;br /&gt;
+Second most addictive game of 2009. It does not have the same feeling of speed as Rat on a scooter, but it is still a good game. My highscore is 20.000-something.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://itunes.apple.com/se/app/sydsvenskan/id294010168?mt=8&quot;&gt;Sydsvenskan&lt;/a&gt; [iTunes direct link]&lt;br /&gt;
+My local newspaper. The app feels solid and always brings me the latest news. One of the better news outlets in Sweden.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://itunes.apple.com/se/app/mobilblogg/id347854404?mt=8&quot;&gt;MobilBlogg&lt;/a&gt; [iTunes direct link]&lt;br /&gt;
+A friend and a colleague at &lt;a href=&quot;http://purplescout.se&quot;&gt;Purple Scout&lt;/a&gt;, &lt;a href=&quot;http://tobi.nu/&quot;&gt;Tobias/tru&lt;/a&gt; have created a very nice client for the Swedish micro blog &lt;a href=&quot;http://mobilblogg.nu&quot;&gt;mobilblogg.nu&lt;/a&gt; (requires account). Even though I don’t use mobilblogg.nu that much, I thought it was worth mentioning since it is a very nice and solid application. It is released as &lt;a href=&quot;http://opensource.purplescout.se/projects/show/mbiphone&quot;&gt;open source&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://stardefense.ngmoco.com/&quot;&gt;StarDefence&lt;/a&gt;
+Before this game I wasn’t that much into tower defense games, but it has all changed now. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.firemint.com/flightcontrol/&quot;&gt;FlightControl&lt;/a&gt;&lt;br /&gt;
+Addicive fun, especially to play against another player via BlueTooth.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/tips/my-favorite-iphone-apps-of-2009&quot;&gt;My favorite iPhone apps of 2009&lt;/a&gt; was originally published by Emil Erlandsson at &lt;a href=&quot;&quot;&gt;buglix.org&lt;/a&gt; on January 08, 2010.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[10 years of digital cameras]]></title>
+  <link rel="alternate" type="text/html" href="/photo/10-years-of-digital-cameras" />
+  <id>/photo/10-years-of-digital-cameras</id>
+  <published>2009-05-24T20:05:01+02:00</published>
+  <updated>2009-05-24T20:05:01+02:00</updated>
+  <author>
+    <name>Emil Erlandsson</name>
+    <uri></uri>
+    <email>emil@buglix.org</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://microsites.lomography.com/diana/&quot;&gt;&lt;img src=&quot;http://erlandsson.files.wordpress.com/2009/05/diana-camera.jpg?w=300&quot; alt=&quot;Diana+, the ultimate camera?&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I recently sold my &lt;a href=&quot;http://www.dpreview.com/reviews/specs/Nikon/nikon_d90.asp&quot;&gt;Nikon D90&lt;/a&gt; since I realized that I only use an SLR-camera when I’m on vacation. In everyday situations it is just to heavy to throw in the backpack. While thinking about which camera to go with instead (an ongoing thought process of mine) it struck me that I have been a digital camera user for 10 years this year, and during this time frame bought and sold no less than 16 cameras (almost two per year). I have owned everything from the most simple VGA-resolution cameras like the &lt;a href=&quot;http://www.dpreview.com/reviews/specs/Agfa/agfa_cl18.asp&quot;&gt;Agfa ePhoto CL18&lt;/a&gt; to professional models like the &lt;a href=&quot;http://www.dpreview.com/reviews/specs/Canon/canon_eos40d.asp&quot;&gt;Canon EOS 40D&lt;/a&gt; with all kinds of accessories and tools.&lt;/p&gt;
+
+&lt;p&gt;The realization of changing camera almost twice a year got me thinking if I’m only in digital cameras for the chase of the next new model or why I take photos at all. My interest in photography started way back in the beginning of the nineties when I got to borrow my fathers analog &lt;a href=&quot;http://www.photoethnography.com/ClassicCameras/index-frameset.html?AsahiPentaxSpotmaticSPII.html~mainFrame&quot;&gt;Ashia Pentax Spotmatic SPI&lt;/a&gt;I, which I still think is a very good camera. Before that I used a compact camera only for vacation and pet (our late cat Findus) snaps. When I got my hands on the Pentax and the fine lenses that came with it, I realized that photography wasn’t only a way of freezing a moment, it was a creative outlet as well. I started shooting more artistic and especially nature/landscape shots. It was always a thrill to get the film back from the camera shop and looking through the master pieces. The years went by and my interest in photography faded until almost 10 years later when my upper secondary school got a digital camera (the revolution!).&lt;/p&gt;
+
+&lt;p&gt;The camera was a &lt;a href=&quot;http://www.photoethnography.com/ClassicCameras/index-frameset.html?AsahiPentaxSpotmaticSPII.html~mainFrame&quot;&gt;Kodak DC200&lt;/a&gt;, a brick that produced grainy 640 by 480 pixel shots in bright light. Anything else than perfect shooting conditions and all you got was a pixel blur. That did not stop me for a second though. Even if the camera was school property, we were allowed to borrow it during evenings and weekends - a benefit I often took advantage of. Compared to shooting with the Pentax, this was like going back to my first compact, more of a memory freeze than an artistic outlet, but it was amazing to skip the whole development process and not having to pay for each shot. A year later I bought my first digital camera, a &lt;a href=&quot;http://www.dpreview.com/reviews/specs/Agfa/agfa_cl18.asp&quot;&gt;Agfa ePhoto CL18&lt;/a&gt;, more ore less the same kind of camera as the DC200, but I didn’t have to ask someone every time I wanted to use it.&lt;/p&gt;
+
+&lt;p&gt;The pattern I have observed while going through my list of previously owned cameras is that I’m torn between artistic expression and my love for advanced technology. All my friends know that I’m a technology loving, early adopting gearhead who is always on the hunt for the next cool gadget. During the last 10 years there have been a small revolution in digital cameras which have fuled my fire for technology by releasing new and more advanced models each year. I love to read reviews of new cameras, dig in user forums (like dpreview.com), look at 200% enlargements of ISO comparisons between different camera models and so on. Of course that has been very good for the gadgetist in me, but not always a great match for the artistic photographer. I say “not always” because some of the cameras have unleashed the same kind of creative freedom I first experienced with the Spotmatic.&lt;/p&gt;
+
+&lt;p&gt;In a couple of weeks I’m going on a trip to Japan and of course I want to take a lot of vacation snaps and also artistic images. With the realization that I’m often torn between creativity and technology (heart and brain?) I’m now hunting for a camera that I know will satisfy my artistic and creative side foremost. Right now I have a few contenders, but haven’t been able to decide yet. The &lt;a href=&quot;http://www.dpreview.com/news/0902/09022401olympuse620.asp&quot;&gt;Olympus E-620&lt;/a&gt; seems to be a good compromise. It is an SLR, but it is very small and lightweight, especially if equipped with the &lt;a href=&quot;http://www.cameralabs.com/reviews/Olympus_Zuiko_Digital_25mm_pancake/&quot;&gt;Zuiko 25mm pancake lens&lt;/a&gt;. My main arguments for the E-620 is that it has a swiveling screen and built-in &lt;a href=&quot;http://www.olympusamerica.com/cpg_section/product.asp?product=1452&quot;&gt;“Art Filters”&lt;/a&gt; (I know, it is just digital filters that is also easy to apply in post processing, but that’s thinking with the brain, not with the heart). Olympus will &lt;a href=&quot;http://www.dpreview.com/news/0809/08092208olympus_micro_four_thirds.asp&quot;&gt;release&lt;/a&gt; another interesting camera in mid June as well. It is a micro four thirds camera in retro range finder style, something that sounds appealing to me. Another very interesting thing is something I saw on my last trip to Tokyo. It was a digital version of the Lomo camera &lt;a href=&quot;http://microsites.lomography.com/diana/&quot;&gt;Diana+&lt;/a&gt; (see pic above). I have always been drawn to Lomo cameras, but I don’t want to hassle with analog film anymore. A digital version would be very nice. Will check it again on my next visit in June (think I saw it at the department store &lt;a href=&quot;http://www.tokyu-hands.co.jp/&quot;&gt;Tokyo Hands&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.dpreview.com/news/0902/09022401olympuse620.asp&quot;&gt;&lt;img src=&quot;http://erlandsson.files.wordpress.com/2009/05/olympus-e-620_1.jpg?w=300&quot; alt=&quot;Olympus E-620&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Either way I will soon be buying a new camera. The difference this time is that I will buy with my heart instead of my brain and hopefully snap a bunch of creative images on my next trip.&lt;/p&gt;
+
+&lt;p&gt;If you want to take a look at my photos, either go to &lt;a href=&quot;http://www.flickr.com/photos/emilerl&quot;&gt;my flickr page&lt;/a&gt; or&lt;a href=&quot;http://www.fotosidan.se/member/view.htm?ID=3932&quot;&gt; my page at Fotosidan.se&lt;/a&gt; (a Swedish photography site). Of course I can give advice on the cameras I have previously owned if you are thinking of buying one, just send an e-mail (check the About page for info).&lt;/p&gt;
+
+&lt;h3 id=&quot;my-camera-history&quot;&gt;My camera history&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1999 &lt;a href=&quot;http://www.dpreview.com/reviews/specs/Kodak/kodak_dc200.asp&quot;&gt;Kodak DC200&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2000 &lt;a href=&quot;http://www.dpreview.com/reviews/specs/Agfa/agfa_cl18.asp&quot;&gt;Agfa ePhoto CL18&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2001 &lt;a href=&quot;http://www.dpreview.com/reviews/specs/FujiFilm/fuji_finepix1300.asp&quot;&gt;FujiFilm Finepix 1300&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2001 &lt;a href=&quot;http://www.dpreview.com/reviews/specs/Olympus/oly_c2100uz.asp&quot;&gt;Olympus C-2100 UZ (aka UZI)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2002 &lt;a href=&quot;http://www.dpreview.com/reviews/specs/FujiFilm/fuji_finepix6900z.asp&quot;&gt;FujiFilm FinePix 6900 Zoom&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2003 &lt;a href=&quot;http://www.dpreview.com/reviews/minoltadimagea1/&quot;&gt;Minolta Dimage A1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2004 &lt;a href=&quot;http://www.dpreview.com/reviews/specs/Canon/canon_eos300d.asp&quot;&gt;Canon EOS 300D&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2005 &lt;a href=&quot;http://www.dpreview.com/reviews/specs/Canon/canon_eos20d.asp&quot;&gt;Canon EOS 20D&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2006 &lt;a href=&quot;http://www.dpreview.com/reviews/specs/Canon/canon_sd630.asp&quot;&gt;Canon Digital Ixus 65&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2007 &lt;a href=&quot;http://www.dpreview.com/reviews/specs/Canon/canon_eos400d.asp&quot;&gt;Canon EOS 400D&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2007 &lt;a href=&quot;http://www.dpreview.com/reviews/specs/Canon/canon_eos40d.asp&quot;&gt;Canon EOS 40D&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2008 &lt;a href=&quot;http://www.dpreview.com/reviews/specs/Canon/canon_g9.asp&quot;&gt;Canon Powershot G9&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2008 &lt;a href=&quot;http://www.dpreview.com/reviews/specs/Sigma/sigma_dp1.asp&quot;&gt;Sigma DP1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2008 &lt;a href=&quot;http://www.dpreview.com/reviews/specs/Nikon/nikon_d60.asp&quot;&gt;Nikon D60&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2008 &lt;a href=&quot;http://www.dpreview.com/reviews/specs/Panasonic/panasonic_dmclx3.asp&quot;&gt;Panasonic Lumix LX3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2009 &lt;a href=&quot;http://www.dpreview.com/reviews/specs/Nikon/nikon_d90.asp&quot;&gt;Nikon D90&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/photo/10-years-of-digital-cameras&quot;&gt;10 years of digital cameras&lt;/a&gt; was originally published by Emil Erlandsson at &lt;a href=&quot;&quot;&gt;buglix.org&lt;/a&gt; on May 24, 2009.&lt;/p&gt;</content>
 </entry>
 
 </feed>
