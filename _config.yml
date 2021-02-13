@@ -23,8 +23,8 @@ version:          1.0.0
 github:
   repo:           https://github.com/emilerl
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
-plugins: [jekyll-paginate]
+# plugins: [jekyll-paginate]
