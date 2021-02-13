@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            buglix.org
-tagline:          'The daily knowledge worker'
+tagline:          'Emil Erlandsson'
 description:      'The personal blog of Emil Erlandsson'
 url:              http://buglix.org
 baseurl:          '/'
@@ -26,3 +26,5 @@ github:
 gems:
   - jekyll-sitemap
   - jekyll-paginate
+
+plugins: [jekyll-paginate]
