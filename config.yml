@@ -3,7 +3,6 @@ languageCode: en-us
 title: buglix.org
 theme: PaperMod
 
-
 params:
     defaultTheme: auto
     description: "Emil Erlandssons personal blog"
