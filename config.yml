@@ -2,6 +2,7 @@ baseURL: 'https://buglix.org/'
 languageCode: en-us
 title: buglix.org
 theme: PaperMod
+disqusShortname: emilerl
 
 params:
     defaultTheme: auto
@@ -14,6 +15,7 @@ params:
     ShowCodeCopyButtons: true
     ShowToc: false
     env: production
+    comments: true
 
     homeInfoParams:
         Title: Hello 👋
