@@ -2,7 +2,7 @@ baseURL: 'https://buglix.org/'
 languageCode: en-us
 title: buglix.org
 theme: PaperMod
-disqusShortname: emilerl
+disqusShortname: buglixorg
 
 params:
     defaultTheme: auto
