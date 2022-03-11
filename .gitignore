@@ -4,3 +4,4 @@ _site
 Gemfile.lock
 .gitignore
 .jekyll-cache
+.hugo_build.lock
