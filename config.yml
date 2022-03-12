@@ -38,6 +38,8 @@ params:
           url: "https://www.reddit.com/user/emilerl"
         - name: flickr
           url: "https://www.flickr.com/photos/emilerl"
+        - name: other
+          url: "https://www.thingiverse.com/emilerl"
         - name: "rss"
           url: "https://buglix.org/index.xml"
 
