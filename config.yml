@@ -4,7 +4,7 @@ title: buglix.org
 theme: PaperMod
 disqusShortname: buglixorg
 enableRobotsTXT: true
-googleAnalytics = "UA-1998842-2"
+googleAnalytics: UA-1998842-2
 
 params:
     defaultTheme: auto
