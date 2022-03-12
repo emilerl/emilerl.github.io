@@ -1,7 +1,7 @@
 ---
 title: "QMK and KBD67 Lite R3 ISO"
 date: 2022-03-12T08:32:01+01:00
-draft: true
+draft: false
 cover:
     image: "/kbd67-sushi.jpeg" 
     alt: "KBD67 Lite R3 ISO with Enjoy Sushi Keycaps" # alt text
