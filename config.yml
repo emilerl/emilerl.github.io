@@ -6,6 +6,15 @@ disqusShortname: buglixorg
 enableRobotsTXT: true
 googleAnalytics: UA-1998842-2
 
+# defaultContentLanguage: en
+# languages:
+#   en:
+#     title: buglix.org
+#     weight: 1
+#   sv:
+#     title: buglix.org
+#     weight: 2
+
 params:
     defaultTheme: auto
     description: "Emil Erlandssons personal blog"
