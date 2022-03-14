@@ -15,6 +15,17 @@ googleAnalytics: UA-1998842-2
 #     title: buglix.org
 #     weight: 2
 
+goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+
 params:
     defaultTheme: auto
     description: "Emil Erlandssons personal blog"
@@ -65,12 +76,12 @@ menu:
         - identifier: archives
           name: Archives
           url: /archives/
-          weight: 10
+          weight: 20
         - identifier: about
           name: About
           url: /about/
-          weight: 20
+          weight: 10
         - identifier: search
-          name: 🔎
+          name: Search
           url: /search/
           weight: 30
