@@ -1,0 +1,9 @@
+---
+title: "Framme i Austin TX, #SXSW"
+date: 2010-03-12T10:00:32+01:00
+draft: true
+---
+
+Igår kväll kom jag, drygt två timmar sent, fram till Embassy Suites i Austin där jag ska bo medan jag besöker SXSW Interactive (http://sxsw.com/interactive). Jag hade bokat hotellet ganska sent via festival/konferens-siten vilket gjorde att jag inte hade någon aning om vart i staden det låg. Fick knappa in adressen på GPS:en i hyrbilen och ge mig ut i natten. Det var mörkt när jag kom fram och jag var helt slut så jag orkade inte kolla vart jag var. När jag lagom groggy drog upp gardinerna i morse märkte jag att hotellet låg i något av ett industriområde, mellan två motorvägar. Inte värdens bästa plats helt enkelt. Hotellet var rätt sunkigt också. Det hade nog sina glory days i början av 90-talet.
+
+Idag blev det så dags att registrera sig på SXSW (som går på Austin Convention Center). Jag bestämde mig för att försöka lära mig hitta lite utan GPS, så jag skrev ner ett par enkla väganvisningar och gav mig ut på motorvägen. Efter att ha kört fel en gång kom jag så äntligen fram (det låg 6-7km från hotellet, helt omöjligt att gå den sträckan p.g.a avsaknad av trottoarer etc). Storleken på mässan/festivalen överträffade mina förväntningar med råge. Det fanns fler bås för registrering av volontärer än vad det är på hela EclipseCon. Trots mängden folk i kö (några hundra) så gick registreringen smärtfritt och jag fick min swag-bag (tonvis med stickers, pins och fortune cookies). Nu sitter jag i Chevrolet Volt lounge och laddar laptopen. Chevy visar inte bara den nya bilen, utan även mobilapparna som finns för den. Tydligen kan man via appen kolla hur mycket ström det finns i bilen (remote) och lite annan statistik. Nu dags för lite BBQ och TexMex (jag är ju trots allt i TexMex-huvudstaden) 🙂
