@@ -14,6 +14,24 @@ languages:
   sv:
     title: buglix.org
     weight: 2
+    params:
+      homeInfoParams:
+        Title: Hej 👋
+        Content: Personlig blogg av en far till två, prylkännare, skribent, resenär, fotograf, golfspelare, löpare  som naturligtvis är Apple-entusiast.
+    menu:
+      main:
+        # - identifier: archives.sv
+          # name: Arkiv
+          # url: /sv/archives/
+          # weight: 20
+        - identifier: about.sv
+          name: Om
+          url: /sv/about/
+          weight: 10
+        - identifier: search.sv
+          name: Sök
+          url: /sv/search/
+          weight: 30
 
 goldmark:
     extensions:
@@ -41,7 +59,7 @@ params:
 
     homeInfoParams:
         Title: Hello 👋
-        Content: Blog of the father of two, gadget connoisseur, writer, traveller, photographer, occasional golfer, runner, services professional who of course is an Apple fanboy.
+        Content: Blog of the father of two, gadget connoisseur, writer, traveler, photographer, occasional golfer, runner, services professional who of course is an Apple enthusiast.
 
     socialIcons:
         - name: github
