@@ -103,3 +103,7 @@ menu:
           name: Search
           url: /search/
           weight: 30
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 25
