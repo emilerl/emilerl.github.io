@@ -1,6 +1,8 @@
 ---
 title: "Devonthink Use Case: Invoice Management"
 date: 2022-03-15T19:05:45+01:00
+tags:
+- devonthink
 draft: false
 ---
 
