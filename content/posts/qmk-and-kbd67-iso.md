@@ -1,6 +1,9 @@
 ---
 title: "QMK and KBD67 Lite R3 ISO"
 date: 2022-03-12T08:32:01+01:00
+tags:
+- qmk
+- keyboards
 draft: false
 cover:
     image: "/kbd67-sushi.jpeg" 
